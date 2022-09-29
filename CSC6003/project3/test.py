@@ -45,4 +45,5 @@ class testBattelhsip(unittest.TestCase):
         #now that the 'X' have replaced the 'S', the game is over
         self.assertEqual(isGameOver(grid), True)
 
-unittest.main()
+if __name__ == "__main__":
+    unittest.main()
