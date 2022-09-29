@@ -45,4 +45,5 @@ class test_Parallepiped(unittest.TestCase):
 
         #I could not find a way to test the display method
 
-unittest.main()
+if __name__ == "__main__":
+    unittest.main()
