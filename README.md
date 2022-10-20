@@ -11,4 +11,4 @@
     - [Project 7](https://github.com/amasse-1/class_work/tree/main/CSC6003/project7)
     - [Final Project](https://github.com/amasse-1/class_work/tree/main/CSC6003/Final%20Project)
   
-  - CS6013
+  - [CS6013](https://github.com/amasse-1/class_work/tree/CS6013) - Algorithms and Discrete Structures
