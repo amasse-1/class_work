@@ -10,8 +10,6 @@ Created: 11/7/2022
 Updated: 11/7/2022 
 """
 from binSearchTree import Tree
-from string import ascii_uppercase
-
 
 
 class assignment3:
