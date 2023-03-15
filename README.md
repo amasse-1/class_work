@@ -18,7 +18,7 @@
     - [Assignment 4](https://github.com/amasse-1/class_work/blob/CS6013/assignment4.py)
     - [Assignment 5](https://github.com/amasse-1/class_work/blob/CS6013/assignment5.py)
     - [Assignment 6](https://github.com/amasse-1/class_work/blob/CS6013/assignment6.py)
+    
+  - DSA5300 - no coding assignments
   
-  -DSA5300 - no coding assignments
-  
-  -[CSC6023](https://github.com/amasse-1/class_work/tree/CSC6023)
+  - [CSC6023](https://github.com/amasse-1/class_work/tree/CSC6023)
