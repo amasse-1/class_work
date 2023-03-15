@@ -21,4 +21,4 @@
     
   - DSA5300 - no coding assignments
   
-  - [CSC6023](https://github.com/amasse-1/class_work/tree/CSC6023)
+  - [CSC6023](https://github.com/amasse-1/class_work/tree/CSC6023) - Advance Algorithms
