@@ -29,3 +29,5 @@
     - [Project 5](https://github.com/amasse-1/class_work/blob/CSC6023/project_5.py)
     - [Project 6](https://github.com/amasse-1/class_work/blob/CSC6023/project6.py)
     - [Project 7](https://github.com/amasse-1/class_work/blob/CSC6023/project_7.py)
+
+ - [CSC6301]() - Software Design and Documentation
