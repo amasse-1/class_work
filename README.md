@@ -38,3 +38,13 @@
    - [Project 5](https://github.com/amasse-1/class_work/blob/CSC6301/project_5.java)
    - Project 6 - no code
    - [Project 7](https://github.com/amasse-1/class_work/tree/CSC6301/project_7)
+  
+- [CSC6302](https://github.com/amasse-1/class_work/tree/CSC6302) - Database Principles
+  - [Project 1](https://github.com/amasse-1/class_work/tree/CSC6302/project_1)
+  - [Project 2](https://github.com/amasse-1/class_work/tree/CSC6302/project_2)
+  - [Project 3](https://github.com/amasse-1/class_work/tree/CSC6302/project_3)
+  - [Project 4](https://github.com/amasse-1/class_work/tree/CSC6302/project_4)
+  - [Project 5](https://github.com/amasse-1/class_work/tree/CSC6302/project_5)
+  - [Project 6](https://github.com/amasse-1/class_work/tree/CSC6302/project_6)
+  - [Project 7](https://github.com/amasse-1/class_work/tree/CSC6302/project_7)
+
