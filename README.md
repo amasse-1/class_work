@@ -56,3 +56,5 @@
   - [Project 5](https://github.com/amasse-1/class_work/tree/CSC6303/project_5)
   - [Project 6](https://github.com/amasse-1/class_work/tree/CSC6303/project_6)
   - [Project 7](https://github.com/amasse-1/class_work/tree/CSC6303/project_7)
+
+- [CSC6304](https://github.com/amasse-1/class_work/tree/CSC6304) - Advanced Programming Concepts
