@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Prime Checker</title>
+  <script>
+    //Project 4
+    //Class: CSC303 - Systems + Languages Survey
+    //Author: Anthony 
+    function isPrime(){
+        let n = document.getElementById("input").value
+        if(n < 2 || n > 9999){
+            document.getElementById("output").innerHTML = "Not between 2 and 9999"
+            document.getElementById("output").style.color = "lime"
+        } else
+        if(n <= 1){
+            document.getElementById("output").style.color = "red"
+            document.getElementById("output").innerHTML = "Not a prime number!"
+        }
+        else if(n <= 3){
+            document.getElementById("output").style.color = "blue"
+            document.getElementById("output").innerHTML = "This is a prime number!"
+        }
+        else if(n % 2 == 0 || n % 3 == 0){
+            document.getElementById("output").style.color = "red"
+            document.getElementById("output").innerHTML = "Not a prime number!"
+        } else {
+            for(let i = 5; i * i <= n; i += 6){
+                if(n % i == 0 || n % (i + 2) == 0){
+                    document.getElementById("output").style.color = "red"
+                    document.getElementById("output").innerHTML = "Not a prime number!"
+                } else {
+                    document.getElementById("output").style.color = "blue"
+                    document.getElementById("output").innerHTML = "This is a prime number!"
+                }
+            }
+        }
+    }
+</script>
+</head>
+<body>
+    <h1 style="color:black">Prime Checker</h1>
+        <label>Enter a number from 2 to 9999:</label>
+        <input type="number" id="input"> <br>
+        <button onclick="isPrime()">Submit</button>
+    <p id="output">The answer is...</p>
+</body>
+</html>
+
