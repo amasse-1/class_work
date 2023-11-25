@@ -5,4 +5,4 @@
   - [Project 2](https://github.com/amasse-1/class_work/tree/CSC6304/project%202)
    
 ### Bonus
-  -[calculator](https://github.com/amasse-1/class_work/blob/CSC6304/calculator.html)
+  - [calculator](https://github.com/amasse-1/class_work/blob/CSC6304/calculator.html)
