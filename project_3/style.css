@@ -1,0 +1,52 @@
+body {
+    background-color:#bfc4e0;
+    font-size: 14px;
+ }
+
+ h1 {
+    text-align: center;
+ }
+
+ h4 {
+    text-align: center;
+    font-style: italic;
+ }
+
+ p {
+    font-size: medium;
+    padding-left: 50px;
+ }
+
+ picture{
+    text-align: center;
+ }
+
+ img{
+    padding: 60px;
+    width: 200px;
+    height: 300px;
+ }
+
+ #change {
+    padding-top: 10px;
+    text-align: center;
+    clear:both;
+}
+
+#move {
+    padding: 20px;
+    background-position: center;
+    border: 5px;
+    text-align: center;
+    clear: both;
+}
+
+button{
+    text-align: center;
+}
+
+#p2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
