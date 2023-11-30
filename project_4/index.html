@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>QR Code Maker</title>
+        <link rel="stylesheet" href="project_4.css">
+    </head>
+    <body>
+        <form id="qr_from">
+            <h2>Create a Custom QR Code</h2>
+            <input id = "data" placeholder="Enter link or text"/>
+            <button id = "submit" type="submit">Submit</button>
+            <button type="reset" onclick="deleteImg()">Reset</button>
+            <div id="qr_img"></div>
+            <p>For the API used please visit: <a href="https://goqr.me/api/doc/create-qr-code/#quickstart" target="_blank">QR Code API</a></p>
+            <button onclick="toggle()">help</button>
+            <div align="center">
+                <p id="help" hidden>You can use any website link or text to become a QR code, most phones you can use 
+                the camera app to read it or there are apps on your phone's app store to read the QR Code. </p>
+            </div>
+    </body>
+        </form>
+        <script src = "project_4.js"></script>
+</html>
